@@ -109,7 +109,7 @@ img {
   font-weight: bold;
   line-height: 1.5;
   letter-spacing: 0.1em;
-  color: #24a8bf;
+  color: #562b1c;
   margin-bottom: 30px;
 }
 
@@ -131,7 +131,7 @@ img {
   font-weight: bold;
   line-height: 1;
   letter-spacing: 0.08em;
-  color: #24a8bf;
+  color: #562b1c;
   text-align: center;
   margin-bottom: 30px;
 }
@@ -187,12 +187,12 @@ img {
   font-size: 15px;
   font-weight: bold;
   line-height: 1;
-  color: #24a8bf;
+  color: #562b1c;
   text-align: center;
   margin: 0 auto;
   padding: 18px 0;
   transition: opacity 0.3s;
-  border: 1px solid #24a8bf;
+  border: 1px solid #562b1c;
   border-radius: 3px;
 }
 
